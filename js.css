@@ -1,0 +1,13 @@
+;
+.content {
+    display: flex;
+    align-items: center;
+    background-attachment: scroll;
+}
+
+;
+h1 {
+    background-color: black;
+    text-decoration: blue;
+    font-size: medium;
+}
